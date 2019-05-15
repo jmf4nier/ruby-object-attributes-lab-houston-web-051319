@@ -22,7 +22,7 @@ class Dog
 
 end
 
-Rover = Dog.new("Rover", "mutt")
- Rover.name = "bear"
-puts Rover.name
-binding.pry
+# Rover = Dog.new("Rover", "mutt")
+# Rover.name = "bear"
+# puts Rover.name
+# binding.pry
